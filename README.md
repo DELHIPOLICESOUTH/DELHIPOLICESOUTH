@@ -1,8 +1,6 @@
 - 👋 Hi, we are @DELHIPOLICE
 
 - 📫 How to reach us election24.south@gmail.com
-- 😄 Pronouns: su/raksha
-- ⚡ Fun fact: We actually do care about crimes
 
 <!---
 DELHIPOLICESOUTH/DELHIPOLICESOUTH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
