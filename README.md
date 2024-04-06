@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DELHIPOLICESOUTH
+- 👋 Hi, we are @DELHIPOLICE
 
 - 📫 How to reach us election24.south@gmail.com
 - 😄 Pronouns: su/raksha
